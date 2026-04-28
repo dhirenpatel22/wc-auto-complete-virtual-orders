@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       WC Auto-Complete Virtual Orders
- * Plugin URI:        https://example.com/
+ * Plugin URI:        https://github.com/dhirenpatel22/wc-auto-complete-virtual-orders/
  * Description:       Automatically completes WooCommerce orders that contain only virtual or downloadable products. HPOS compatible and extensible via filters.
  * Version:           1.0.0
  * Requires at least: 6.0
